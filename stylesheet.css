@@ -1,3 +1,7 @@
+#flexi {
+    display: flex;
+}
+
 #ic {
     text-align: right;
     color: white;
