@@ -1,10 +1,5 @@
-#flexi {
-    display: flex;
-}
-
-#ic {
-    text-align: right;
-    color: white;
+i {
+    text-align: center;
 }
 
 body{
